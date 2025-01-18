@@ -1,4 +1,4 @@
-# The Bot
+# The Mapping Bot
 
 This project is a bot that allows users to display specified cities on the map and to save cities for further display.
 
